@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Naman Biyani</h1>
-<h3 align="center">A High School Student in Ontario</h3>
+<h1 align="center">Hi, I'm Naman Biyani</h1>
+<h3 align="center">A High School Student in Canada 🇨🇦</h3>
 
 <p align = "center">
-🔭 I’m currently working on <a href = "https://sparkyouthrobotics.netlify.app"> a website for FIRST Robotics Team 8729 </a>
+🔨 I’m currently working on <a href = "https://sparkyouthrobotics.netlify.app"> a website for FIRST Robotics Team 8729 </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
