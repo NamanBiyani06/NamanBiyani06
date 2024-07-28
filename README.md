@@ -1,8 +1,16 @@
 <h1 align="center">Hi, I'm Naman Biyani</h1>
-<h3 align="center">A High School Student in Canada 🇨🇦</h3>
+<h3 align="center">A Software Engineering Student <a href = "https://uwaterloo.ca/future-students/programs/software-engineering"> @UWaterloo </a></h3>
 
 <p align = "center">
 🔨 I’m currently working on <a href = "https://sparkyouthrobotics.netlify.app"> a website for FIRST Robotics Team 8729 </a>
+</p>
+
+<p align = "center">
+✋ I'm also developing a full-stack application for my <a href = "https://github.com/NamanBiyani06/SignLanguageRecognition"> Hand Pose Detection Model </a>
+</p>
+
+<p align = "center">
+🚀 And porting my <a href = "https://github.com/NamanBiyani06/RocketLander"> Rocket Lander </a> game to the App Store (You can play it <a href = "https://nbmaster.itch.io/hover-slam-x"> here! </a> )
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
